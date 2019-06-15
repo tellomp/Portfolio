@@ -19,7 +19,14 @@
 
 * About me section
 
+
+![alt text][skills]
+
+[skills]: https://github.com/tellomp/Portfolio/blob/master/images/home.png "Skills"
+
+
 * Skills and Resume Section
+
 
 ### Live App
 * Check out my portfolio here: https://tellomp.github.io/Portfolio/
