@@ -12,6 +12,15 @@
 * Homepage and portfolio page
 
 
+
+![alt text][menu]
+
+[menu]: https://github.com/tellomp/Portfolio/blob/master/images/menu.png "NavBar"
+
+
+* NavBar and Logo
+
+
 ![alt text][logo]
 
 [logo]: https://github.com/tellomp/Portfolio/blob/master/images/aboutMe.png "About Me"
