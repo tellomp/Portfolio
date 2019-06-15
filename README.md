@@ -4,6 +4,9 @@
 * A webpage where users can view my portfolio, learn about me, and have my contact information so that we can create and find solutions for their specific needs.
 
 
+![alt text][portfolio]
+
+[portfolio]: https://github.com/tellomp/Portfolio/blob/master/images/portfolio.png "Portfolio"
 
 
 * Homepage and portfolio page
@@ -11,7 +14,7 @@
 
 ![alt text][logo]
 
-[logo]: https://github.com/tellomp/Portfolio/blob/master/images/home.png "Portfolio"
+[logo]: https://github.com/tellomp/Portfolio/blob/master/images/home.png "About Me"
 
 
 * About me section
