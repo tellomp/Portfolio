@@ -14,7 +14,7 @@
 
 ![alt text][logo]
 
-[logo]: https://github.com/tellomp/Portfolio/blob/master/images/home.png "About Me"
+[logo]: https://github.com/tellomp/Portfolio/blob/master/images/aboutMe.png "About Me"
 
 
 * About me section
