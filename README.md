@@ -22,7 +22,7 @@
 
 ![alt text][skills]
 
-[skills]: https://github.com/tellomp/Portfolio/blob/master/images/home.png "Skills"
+[skills]: https://github.com/tellomp/Portfolio/blob/master/images/skills.png "Skills"
 
 
 * Skills and Resume Section
